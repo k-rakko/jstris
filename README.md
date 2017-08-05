@@ -1,2 +1,2 @@
 # jstris
-jstrisについていろいろ
+jstrisについていろいろまとめとく
